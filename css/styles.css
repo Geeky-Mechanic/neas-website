@@ -1,0 +1,156 @@
+ /*navbar section */
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #CAEDEA;
+}
+
+a{
+  color: #CAEDEA;
+}
+
+.name {
+  padding: 7% 0 4%;
+  font-size: 6.5rem;
+  font-family: 'Teko', sans-serif;
+  font-weight: 600;
+}
+
+#nav-color ,#nav-color1, #nav-color2{
+  color: #CAEDEA;
+}
+
+.neas-logo {
+  width: 12rem;
+  position: absolute;
+  left: 4rem;
+}
+
+.right-align {
+  margin-left: 65%;
+}
+
+.toggler-position {
+  margin-left: auto;
+}
+
+.toggler-color {
+  background-color: #2f4858;
+  border-radius: 15%;
+}
+
+/* body */
+
+.background-style-1 {
+  background-color: #131516;
+  padding: 3% 0;
+  color: #fff;
+}
+
+.background-style-2 {
+  background-color: #2f4858;
+  color: #f1d904;
+}
+
+/* profile/bio section */
+
+.profile {
+  text-align: center;
+  padding: 0 20%;
+}
+
+.profile-img {
+  border-radius: 100%;
+  width: 20rem;
+  height: 20rem;
+  margin-bottom: 5%;
+}
+
+/* section titles */
+
+.section-title {
+  margin: 0 0 5% 0;
+  font-size: 4rem;
+  font-weight: 500;
+}
+
+/* recent + most pupolar card customization */
+
+.card {
+  border: none;
+}
+
+.card-title {
+  font-size: 2.5rem;
+  padding: 3% 0;
+}
+
+.card-text {
+  font-size: 1.75rem;
+  font-weight: 500;
+  padding: 2rem 0;
+}
+
+/* most recent section */
+.recent-section {
+  padding: 4% 15%;
+}
+
+/* ablum pictures */
+
+.album-picture-recent {
+  width: 35rem;
+  display: block;
+  margin: 4% auto;
+}
+
+/* most popular */
+.soundcloud {
+  text-decoration: none;
+  color: #fd7e14;
+}
+
+.soundcloud:hover {
+  color: #fd7e14;
+  text-decoration: none;
+}
+
+/* footer section  */
+.contact-section-text {
+  font-size: 1.75rem;
+  margin: 2.5rem 0;
+}
+
+.social-image-link{
+  text-decoration: none;
+  color: #95D1CC;
+  padding: 0 1%;
+}
+
+.social-image-link.fa-instagram:hover{
+  color: #bc2a8d;
+}
+
+.social-image-link.fa-facebook:hover{
+  color: #4267B2;
+}
+
+.social-image-link.fa-soundcloud:hover{
+  color: #fd7e14;
+}
+
+.social-image-link.fa-twitch:hover{
+  color: #6441a5;
+}
+
+.contact-me {
+  padding: 7% 0 0;
+}
+
+.social-network {
+  margin: 0 0 3% 0;
+  padding-top: 1%;
+}
+
+.copyright-text {
+  margin: 2% 0;
+}
